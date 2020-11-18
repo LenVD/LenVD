@@ -14,18 +14,18 @@ h1{
 
 header img{
 	border-radius: 150px;
-	width: 300px;
+	width: 400px;
 	border:10px solid #CC0000;
 }
 
 .content{
-	max-width: 900px;
+	max-width: ;
 	margin: 0 auto;
 	padding:0 20px;
 }
 
-img.big-img{
-	max-width:100%;
+img.big-image{
+	width:100.3%;
 }
 
 p.caption{
